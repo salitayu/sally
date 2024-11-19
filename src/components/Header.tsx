@@ -71,6 +71,9 @@ export default function Header () {
             <Link href={'https://github.com/stanyu2013'} target="_blank">
                 <Image src={github} alt="github" layout="raw" width={28} height={23}></Image>
             </Link>
+            <Link href={'https://github.com/salitayu'} target="_blank">
+                <Image src={github} alt="github" layout="raw" width={28} height={23}></Image>
+            </Link>
             <Link href={'https://www.linkedin.com/in/sally-tan-a7018b57/'} target="_blank">
                 <Image src={linkedin} alt="linkedin" layout="raw" width={28} height={23}></Image>
             </Link>

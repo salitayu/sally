@@ -6,7 +6,7 @@ function Contact() {
             <h1>Contact Me</h1>
             <p>Connect with me if you would like my work, want to be friends with me or work on a web app together.</p>
             <br/><br/>
-            <form action="https://formsubmit.co/salitanyu@gmail.com" method="POST">
+            <form action="https://formsubmit.co/salitasprogrammingschool@gmail.com" method="POST">
                 <label htmlFor="name">Name</label>
                 <input type="text" id="contact-name" placeholder="Jane Doe" name="name"/>
                 <label htmlFor="email">Email</label>

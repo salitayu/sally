@@ -151,7 +151,8 @@ li {
 }
 
 #s-about-section {
-  background-color: #f7fbfd;
+  // background-color: #f7fbfd;
+  background-color: #f0f8ff;
 }
 
 .s-about-content {
@@ -267,7 +268,7 @@ li {
 
 /* Tech Section */
 #s-tech-section {
-  background-color: #f9faf1;
+  background-color: #f5f5dc;
 }
 
 .s-tech-container {
@@ -506,7 +507,6 @@ img, li, .s-logo-text, button {
 
   .s-navbar-header :checked ~ .s-navbar-menu {
       opacity: 1;
-      width: 100%;
       visibility: visible;
   }
 
@@ -536,9 +536,12 @@ img, li, .s-logo-text, button {
       background-color: #ECF0F1;
   }
 
+  .st-home-image img {
+    width: 98%;
+  }
+
   #s-home-section, #s-about-section, #s-tech-section, #s-work-section, #s-projects-section {
-      padding: 5%;
-      padding-top: 85px;
+      padding-top: 55px 5% 10% 5%;
   }
 
   .s-navbar-items i {

@@ -507,6 +507,7 @@ img, li, .s-logo-text, button {
 
   .s-navbar-header :checked ~ .s-navbar-menu {
       opacity: 1;
+      width: 100%;
       visibility: visible;
   }
 

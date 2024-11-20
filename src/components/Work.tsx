@@ -14,7 +14,7 @@ export default function Work() {
                         <p className="s-work-title"><strong>Walmart Global Tech</strong> <i>Sept 2022 - Present</i></p>
                         <p className="s-word-description">I am currently a software engineer at Walmart Global Tech, where I am creating features for a remote checkout mobile app and a self check out desktop app.
                         At Walmart Global Tech, I develop new user interfaces for millions of customers to use around the world.
-                        I communicate with designers and stakeholders to find ways to improve the features of Walmarts application.
+                        I communicate with designers and stakeholders to find ways to improve the features of Walmart&apos;s application.
                         I also create dashboards and analyze the usage of the app through log data to improve cart creation rate.
                         On weekends, I monitor alerts and assist with on call duties to resolve production issues and analyze them through Splunk and Grafana.
                         </p>
@@ -32,7 +32,7 @@ export default function Work() {
                             I also created dashboards to analyze data with product managers and increase our user activity.
                             I conducted standup meetings, sprint plannings, and reviews every few weeks as the rotating scrum lead.
                             I worked on both the frontend and backend and created user interfaces for web applications and implemented API requests.
-                            I presented my work to stakeholders and contribute to discussions to improve our software process.
+                            I presented my work to stakeholders and contributed to discussions to improve our software process.
                         </p>
                     </article>
                 </div>

@@ -3,6 +3,7 @@ import Portfolio from '../src/components/Portfolio'
 
 export default function Index() {
     return (
+        <>
         <Head>
             <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
             <meta name="description" content="This is the portfolio website for Sally Tan. She is a Software Engineer living in the greater Seattle area.
@@ -17,7 +18,8 @@ export default function Index() {
             <link rel="icon" href="/icon.ico" />
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"/>
             <title>Sally Tan Portfolio</title>
-            <Portfolio/>
         </Head>
+        <Portfolio/>
+        </>
     )
 }
